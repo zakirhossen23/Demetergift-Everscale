@@ -2,10 +2,6 @@
     "name": "demetergift",
     "version": "0.0.1",
     "private": true,
-    "engines": {
-        "node": ">=14",
-        "npm": ">=6"
-    },
     "scripts": {
         "start": "npx webpack serve --mode development --config webpack.config.ts",
         "build": "npx webpack --mode development --config webpack.config.ts",
