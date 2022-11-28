@@ -1,0 +1,16 @@
+{
+  "__core__accounts": "{\"assets\":{\"0:910bb57b9a71e2178423b63ce7102afc6a82ea32f97a018ad9b67047114e206e\":\"{\\\"name\\\":\\\"Account 1\\\",\\\"ton_wallet\\\":{\\\"address\\\":\\\"0:910bb57b9a71e2178423b63ce7102afc6a82ea32f97a018ad9b67047114e206e\\\",\\\"public_key\\\":\\\"9bc5f4003234a48e2f9d02883632441ecd121556dadc2c795dabda117bf7fa5a\\\",\\\"contract\\\":\\\"EverWallet\\\"},\\\"additional_assets\\\":{}}\"}}",
+  "__core__keystore": "[[\"master_key\",\"{\\\"master_keys\\\":{\\\"9bc5f4003234a48e2f9d02883632441ecd121556dadc2c795dabda117bf7fa5a\\\":{\\\"public_key\\\":\\\"9bc5f4003234a48e2f9d02883632441ecd121556dadc2c795dabda117bf7fa5a\\\",\\\"salt\\\":\\\"db273fe39c7dfeb55fa7bef05facbb57c5b4ad897e2ed39913c523381d8f936b\\\",\\\"enc_entropy\\\":\\\"b7361d56e3883945c5b1ea5b1ee3f97e8477fc4ac38585af75f1d8bb305e7b0fa500e428c0968726708699b794ead406e78f9b671109e2d2f0ea6108ce3a64d7d99f20c09ba623b2f1d3be2749bdfe00\\\",\\\"entropy_nonce\\\":\\\"f39096d8b91f51d2b5ee4ba9\\\",\\\"enc_phrase\\\":\\\"5ffe6ea6620ce407acd36a676f57e78219757c9d594d82ac1b59bc7e8951ad74c560c49380bdb4cf8c7657a50139cbf3b62dc633252917ceaa5fb3777d8e75a99ad051e00bf36b78e3754b5149c836d6751a\\\",\\\"phrase_nonce\\\":\\\"302ccb097eaa845b28a1dd5b\\\",\\\"accounts_map\\\":{\\\"9bc5f4003234a48e2f9d02883632441ecd121556dadc2c795dabda117bf7fa5a\\\":{\\\"name\\\":\\\"9bc5...fa5a\\\",\\\"account_id\\\":0}}}}}\"],[\"ledger_key\",\"[]\"],[\"encrypted_key\",\"[]\"]]",
+  "accountsVisibility": {
+    "0:910bb57b9a71e2178423b63ce7102afc6a82ea32f97a018ad9b67047114e206e": true
+  },
+  "recentMasterKeys": [
+    {
+      "accountId": 0,
+      "masterKey": "9bc5f4003234a48e2f9d02883632441ecd121556dadc2c795dabda117bf7fa5a",
+      "name": "9bc5...fa5a",
+      "publicKey": "9bc5f4003234a48e2f9d02883632441ecd121556dadc2c795dabda117bf7fa5a",
+      "signerName": "master_key"
+    }
+  ]
+}
